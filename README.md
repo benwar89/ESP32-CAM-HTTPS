@@ -1,8 +1,9 @@
 # ESP32-CAM-HTTPS
-Simple HTTPS web server with Basic Auth for ESP32-CAM
+Simple HTTPS web server with Basic-Auth for ESP32-CAM
 
-The https part is based on https://github.com/espressif/esp-idf/tree/master/examples/protocols/https_server/simple
-The Basic Auth is based on https://github.com/abobija/esp-httpd-basic-auth
+The HTTPS part is based on: https://github.com/espressif/esp-idf/tree/master/examples/protocols/https_server/simple
+
+The Basic-Auth is based on:  https://github.com/abobija/esp-httpd-basic-auth
 
 ## Install
 
